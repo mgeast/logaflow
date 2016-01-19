@@ -1,0 +1,45 @@
+header {
+	background-image: url(http://i.imgur.com/GKf4vcD.jpg);
+	background-size: cover;
+	height: 400px;
+	position: relative;
+	margin: 0 auto;
+	max-width: 22000px;
+	margin: 0;
+	padding: 0;
+}
+h1 {
+	font-family: 'Roboto', sans-serif;
+	text-align: justify;
+	color: white;
+	font-size: 90px;
+	margin: 0;
+	padding: 0;
+	display: block;
+	float: left;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0; 
+    width: 200px;
+    float: right;
+}
+li a {
+	display: block;
+	font-family: 'Roboto', sans-serif; 
+	padding: 5px 0px 5px 10px;
+	float: right;
+	text-transform: capitalize;
+	font-size: 22px;
+}
+a {
+	color: rgba(255,255,255
+		,1);
+	text-decoration: none;
+	display: inline-block;
+}
+
+
+
+
